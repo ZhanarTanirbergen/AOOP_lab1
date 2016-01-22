@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\Zhanarok\OOP\Lab1_figures\Lab1_figures\bin\Debug\Lab1_figures.exe.config
+C:\Users\Lenovo\Desktop\Zhanarok\OOP\Lab1_figures\Lab1_figures\obj\Debug\Lab1_figures.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Zhanarok\OOP\Lab1_figures\Lab1_figures\bin\Debug\Lab1_figures.exe
+C:\Users\Lenovo\Desktop\Zhanarok\OOP\Lab1_figures\Lab1_figures\bin\Debug\Lab1_figures.pdb
+C:\Users\Lenovo\Desktop\Zhanarok\OOP\Lab1_figures\Lab1_figures\obj\Debug\Lab1_figures.exe
+C:\Users\Lenovo\Desktop\Zhanarok\OOP\Lab1_figures\Lab1_figures\obj\Debug\Lab1_figures.pdb
